@@ -1,9 +1,3 @@
 # TU_GIS
 
-# Heading1
-- hello
-- Item
-
-## Hello world
-- Terra
-- Asterum
+# 191124_QGIS
